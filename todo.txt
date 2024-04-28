@@ -1,0 +1,1 @@
+[{"todo":"Mabar","status":"0"},{"todo":"Makan","status":"0"},{"todo":"Mandi","status":"0"},{"todo":"Belajar","status":"0"},{"todo":"Tidur","status":"0"}]
